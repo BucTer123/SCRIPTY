@@ -1,0 +1,5 @@
+C:/Users/bambu/OneDrive/Документи/Visual Studio 2022/app/out/build/x64-debug/CMakeFiles/edit_cache.dir
+C:/Users/bambu/OneDrive/Документи/Visual Studio 2022/app/out/build/x64-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/bambu/OneDrive/Документи/Visual Studio 2022/app/out/build/x64-debug/app/CMakeFiles/app.dir
+C:/Users/bambu/OneDrive/Документи/Visual Studio 2022/app/out/build/x64-debug/app/CMakeFiles/edit_cache.dir
+C:/Users/bambu/OneDrive/Документи/Visual Studio 2022/app/out/build/x64-debug/app/CMakeFiles/rebuild_cache.dir
