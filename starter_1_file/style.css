@@ -1,0 +1,39 @@
+body {
+    background-color: white;
+}
+
+h1 {
+    background-color: white;
+    font-family: sans-serif;
+    padding:11px;
+    margin:1px;
+}
+
+h2 {
+    background-color: white;
+    font-family: sans-serif;
+    padding:22px;
+    margin:11px;
+}
+
+.Welcome_text {
+    background-color: white;
+    font-family: sans-serif;
+    padding: 33px;
+    margin: 22px;
+}
+
+.button_welcome1 {
+    background-color: white;
+    font-family: sans-serif;
+    padding: 44px;
+    margin: 33px;
+}
+
+.button_welcome2 {
+    background-color: white;
+    font-family: sans-serif;
+    padding: 55px;
+    margin: 44px;
+}
+
