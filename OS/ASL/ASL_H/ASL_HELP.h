@@ -1,0 +1,4 @@
+#ifndef UNTITLED_ASL_HELP_H
+#define UNTITLED_ASL_HELP_H
+void HELPASL();
+#endif //UNTITLED_ASL_HELP_H

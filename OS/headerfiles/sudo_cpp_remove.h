@@ -1,0 +1,4 @@
+#ifndef UNTITLED_SUDO_CPP_REMOVE_H
+#define UNTITLED_SUDO_CPP_REMOVE_H
+void sudoremove();
+#endif //UNTITLED_SUDO_CPP_REMOVE_H

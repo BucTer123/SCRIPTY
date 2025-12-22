@@ -1,0 +1,4 @@
+#ifndef UNTITLED_CPP_UPDATE_H
+#define UNTITLED_CPP_UPDATE_H
+void update();
+#endif //UNTITLED_CPP_UPDATE_H

@@ -1,0 +1,4 @@
+#ifndef UNTITLED_CPP_INSTALL_H
+#define UNTITLED_CPP_INSTALL_H
+void install();
+#endif //UNTITLED_CPP_INSTALL_H

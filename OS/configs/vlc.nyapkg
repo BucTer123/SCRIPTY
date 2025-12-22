@@ -1,0 +1,7 @@
+Application=VLC;
+Os=MyOs;
+Kernel=Nope;
+User={User};
+Password={Pass};
+Address="videolan.org";
+Installed=No;

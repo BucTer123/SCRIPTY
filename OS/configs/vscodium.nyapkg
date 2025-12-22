@@ -1,0 +1,7 @@
+Application=Vscodium
+Os=MyOs;
+Kernel=Nope;
+User={User};
+Password={Pass};
+Address="vscodium.com";
+Installed=No

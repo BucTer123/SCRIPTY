@@ -1,0 +1,7 @@
+Application=Opera Browser;
+Os=MyOs;
+Kernel=Nope;
+User={User};
+Password={Pass};
+Address="opera.com";
+Installed=No;

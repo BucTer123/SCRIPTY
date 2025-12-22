@@ -1,0 +1,4 @@
+#ifndef UNTITLED_SUDO_CPP_UPDATE_H
+#define UNTITLED_SUDO_CPP_UPDATE_H
+void sudoupdate();
+#endif //UNTITLED_SUDO_CPP_UPDATE_H

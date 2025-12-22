@@ -1,0 +1,4 @@
+#ifndef UNTITLED_ASL_CODE_H
+#define UNTITLED_ASL_CODE_H
+void CODEASL();
+#endif //UNTITLED_ASL_CODE_H

@@ -1,0 +1,4 @@
+#ifndef UNTITLED_CPP_REMOVE_H
+#define UNTITLED_CPP_REMOVE_H
+void removew();
+#endif //UNTITLED_CPP_REMOVE_H

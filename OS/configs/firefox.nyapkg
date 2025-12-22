@@ -1,0 +1,7 @@
+Application=Firefox;
+Os=MyOs;
+Kernel=Nope;
+User={User};
+Password={Pass};
+Address="www.firefox.com";
+Installed=true

@@ -1,0 +1,8 @@
+Application=Tor;
+Os=MyOs
+Kernel=Nope;
+User={User};
+Password={Pass};
+Address="www.torproject.org";
+Installed=true;
+

@@ -1,0 +1,95 @@
+The Programing Language ASL (Author Shell Language)
+
+#include = import;
+
+Modules :
+
+main -> :
+
+  "Now i write about the lang   :\n"
+    "cout = talk \n"
+    "string = create\n"
+   "int = create_num\n"
+   "float = create_flo\n"
+    "void or main = func \n"
+    "return 0 or exit(0) = leave\n"
+    "create_directory = cd \n"
+    "cd = sd\n"
+   "ls = lf \n"
+    cin = out\n"
+calc -> :
+
+plus(ex.
+        create_flo a = 1.1;
+        create_flo b = 2.1;
+        talk(a + b);
+
+);
+
+minus (ex.
+        create_flo i = 2.2;
+        create_flo j = 1/5;
+        talk(i - j);
+
+);
+
+div (ex.
+    create_num z = 2;
+    create_num v = 2;
+    talk(z / v);
+
+);
+
+mul (ex.
+    create_num m = 11;
+    create_num c = 11;
+    talk(m * c);
+);
+
+sin (ex.
+    create_flo z;
+    talk("Write the sin     :");
+    out(z);
+    sin(z);
+);
+
+cos (ex.
+    create_flo k;
+    talk("Write the cos     :");
+    out(k);
+    cos(k);
+);
+
+tan (ex.
+    create_flo b;
+    talk("Write the tan      :");
+    out(b);
+    tan(b);
+);
+
+how to import the modules:
+
+        ^^importe
+
+how is modules now:
+        main
+        calc
+how is if or else?:
+        if --> when ;
+        else --> or ;
+        for example :
+                ^^importe main
+
+                func main() {
+                    talk("Hello!");
+                    create command;
+                    talk("Write the command         :");
+                    out(command);
+                    when [ command == "Hui" ] {
+                        talk("Hi");
+                    } or {
+                        talk("FUCK YOU!");
+
+                    }
+                }
+

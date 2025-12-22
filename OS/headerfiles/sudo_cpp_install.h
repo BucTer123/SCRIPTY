@@ -1,0 +1,4 @@
+#ifndef UNTITLED_SUDO_CPP_INSTALL_H
+#define UNTITLED_SUDO_CPP_INSTALL_H
+void sudoinstall();
+#endif //UNTITLED_SUDO_CPP_INSTALL_H

@@ -1,0 +1,4 @@
+#ifndef UNTITLED_ASL_VER_H
+#define UNTITLED_ASL_VER_H
+void VERASL();
+#endif //UNTITLED_ASL_VER_H

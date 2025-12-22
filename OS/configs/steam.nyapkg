@@ -1,0 +1,9 @@
+Application=Steam;
+Os=Myos;
+Kernel=Nope;
+User={User};
+Password={Pass};
+Address="steampowered.com";
+Installed=No
+
+

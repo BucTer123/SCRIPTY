@@ -1,0 +1,7 @@
+Application=Neovim
+Os=MyOs;
+Kernel=Nope;
+User={User};
+Password={Pass};
+Address="https://neovim.io";
+Installed=true

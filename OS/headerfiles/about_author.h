@@ -1,0 +1,5 @@
+
+#ifndef UNTITLED_ABOUT_AUTHOR_H
+#define UNTITLED_ABOUT_AUTHOR_H
+void about_author();
+#endif //UNTITLED_ABOUT_AUTHOR_H
