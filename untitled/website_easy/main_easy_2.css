@@ -1,0 +1,164 @@
+.button_1 {
+    background-color: var(--button-bg);
+    box-shadow:
+                var(--shadow-bg) 1px 1px 0.
+                var(--shadow-bg) 2px 2px 0,
+                var(--shadow-bg) 3px 3px 0.
+                var(--shadow-bg) 4px 4px 0,
+                var(--shadow-bg) 5px 5px 0,
+                var(--shadow-bg) 6px 6px 0,
+                var(--shadow-bg) 7px 7px 0,
+                var(--shadow-bg) 8px 8px 0,
+                var(--shadow-bg) 10px 10px 0,
+}
+.button_2 {
+    background-color: var(--button-2-bg);
+    box-shadow:
+                var(--button-2-shadow) 1px 1px 0.
+                var(--button-2-shadow) 2px 2px 0,
+                var(--button-2-shadow) 3px 3px 0.
+                var(--button-2-shadow) 4px 4px 0,
+                var(--button-2-shadow) 5px 5px 0,
+                var(--button-2-shadow) 6px 6px 0,
+                var(--button-2-shadow) 7px 7px 0,
+                var(--button-2-shadow) 8px 8px 0,
+                var(--button-2-shadow) 8px 8px 0,
+                var(--button-2-shadow) 9px 9px 0,
+                var(--button-2-shadow) 10px 10px 0
+                ;
+}
+.cpp {
+    background-color: var(--button-3-bg);
+    box-shadow:
+                var(--button-3-shadow) 1px 1px 0.
+                var(--button-3-shadow) 2px 2px 0,
+                var(--button-3-shadow) 3px 3px 0.
+                var(--button-3-shadow) 4px 4px 0,
+                var(--button-3-shadow) 5px 5px 0,
+                var(--button-3-shadow) 6px 6px 0,
+                var(--button-3-shadow) 7px 7px 0,
+                var(--button-3-shadow) 8px 8px 0,
+                var(--button-3-shadow) 9px 9px 0,
+                var(--button-3-shadow) 10px 10px 0
+                ;
+}
+.cs {
+    background-color: var(--button-4-bg);
+    box-shadow:
+                var(--button-4-shadow) 1px 1px 0.
+                var(--button-4-shadow) 2px 2px 0,
+                var(--button-4-shadow) 3px 3px 0.
+                var(--button-4-shadow) 4px 4px 0,
+                var(--button-4-shadow) 5px 5px 0,
+                var(--button-4-shadow) 6px 6px 0,
+                var(--button-4-shadow) 7px 7px 0,
+                var(--button-4-shadow) 8px 8px 0,
+                var(--button-4-shadow) 9px 9px 0,
+                var(--button-4-shadow) 10px 10px 0
+                ;
+}
+.java {
+    background-color: var(--button-5-bg);
+    box-shadow:
+    var(--button-5-shadow) 1px 1px 0.
+    var(--button-5-shadow) 2px 2px 0,
+    var(--button-5-shadow) 3px 3px 0.
+    var(--button-5-shadow) 4px 4px 0,
+    var(--button-5-shadow) 5px 5px 0,
+    var(--button-5-shadow) 6px 6px 0,
+    var(--button-5-shadow) 7px 7px 0,
+    var(--button-5-shadow) 8px 8px 0,
+    var(--button-5-shadow) 9px 9px 0,
+    var(--button-5-shadow) 10px 10px 0
+    ;
+}
+.python {
+    background-color: var(--button-6-bg);
+    box-shadow:
+    var(--button-6-shadow) 1px 1px 0.
+    var(--button-6-shadow) 2px 2px 0,
+    var(--button-6-shadow) 3px 3px 0.
+    var(--button-6-shadow) 4px 4px 0,
+    var(--button-6-shadow) 5px 5px 0,
+    var(--button-6-shadow) 6px 6px 0,
+    var(--button-6-shadow) 7px 7px 0,
+    var(--button-6-shadow) 8px 8px 0,
+    var(--button-6-shadow) 9px 9px 0,
+    var(--button-6-shadow) 10px 10px 0
+    ;
+}
+.php {
+    background-color: var(--button-7-bg);
+    box-shadow:
+    var(--button-7-shadow) 1px 1px 0.
+    var(--button-7-shadow) 2px 2px 0,
+    var(--button-7-shadow) 3px 3px 0.
+    var(--button-7-shadow) 4px 4px 0,
+    var(--button-7-shadow) 5px 5px 0,
+    var(--button-7-shadow) 6px 6px 0,
+    var(--button-7-shadow) 7px 7px 0,
+    var(--button-7-shadow) 8px 8px 0,
+    var(--button-7-shadow) 9px 9px 0,
+    var(--button-7-shadow) 10px 10px 0
+    ;
+}
+.ruby {
+    background-color: var(--button-8-bg);
+    box-shadow:
+    var(--button-8-shadow) 1px 1px 0.
+    var(--button-8-shadow) 2px 2px 0,
+    var(--button-8-shadow) 3px 3px 0.
+    var(--button-8-shadow) 4px 4px 0,
+    var(--button-8-shadow) 5px 5px 0,
+    var(--button-8-shadow) 6px 6px 0,
+    var(--button-8-shadow) 7px 7px 0,
+    var(--button-8-shadow) 8px 8px 0,
+    var(--button-8-shadow) 9px 9px 0,
+    var(--button-8-shadow) 10px 10px 0
+    ;
+}
+.javascript {
+    background-color: var(--button-9-bg);
+    box-shadow:
+    var(--button-9-shadow) 1px 1px 0.
+    var(--button-9-shadow) 2px 2px 0,
+    var(--button-9-shadow) 3px 3px 0.
+    var(--button-9-shadow) 4px 4px 0,
+    var(--button-9-shadow) 5px 5px 0,
+    var(--button-9-shadow) 6px 6px 0,
+    var(--button-9-shadow) 7px 7px 0,
+    var(--button-9-shadow) 8px 8px 0,
+    var(--button-9-shadow) 9px 9px 0,
+    var(--button-9-shadow) 10px 10px 0
+    ;
+}
+.html {
+    background-color: var(--button-10-bg);
+    box-shadow:
+    var(--button-10-shadow) 1px 1px 0.
+    var(--button-10-shadow) 2px 2px 0,
+    var(--button-10-shadow) 3px 3px 0.
+    var(--button-10-shadow) 4px 4px 0,
+    var(--button-10-shadow) 5px 5px 0,
+    var(--button-10-shadow) 6px 6px 0,
+    var(--button-10-shadow) 7px 7px 0,
+    var(--button-10-shadow) 8px 8px 0,
+    var(--button-10-shadow) 9px 9px 0,
+    var(--button-10-shadow) 10px 10px 0
+    ;
+}
+.react {
+    background-color: var(--button-11-bg);
+    box-shadow:
+    var(--button-11-shadow) 1px 1px 0.
+    var(--button-11-shadow) 2px 2px 0,
+    var(--button-11-shadow) 3px 3px 0.
+    var(--button-11-shadow) 4px 4px 0,
+    var(--button-11-shadow) 5px 5px 0,
+    var(--button-11-shadow) 6px 6px 0,
+    var(--button-11-shadow) 7px 7px 0,
+    var(--button-11-shadow) 8px 8px 0,
+    var(--button-11-shadow) 9px 9px 0,
+    var(--button-11-shadow) 10px 10px 0
+    ;
+}

@@ -1,0 +1,13 @@
+{
+  "programing languages who used in this website": {
+    "cpp": "C++(C Plus Plus)",
+    "cs": "C#(C Sharp)",
+    "java": "Java",
+    "python": "Python",
+    "php": "PHP",
+    "ruby": "Ruby",
+    "javascript": "JavaScript",
+    "html": "HTML",
+    "react": "React"
+  }
+}

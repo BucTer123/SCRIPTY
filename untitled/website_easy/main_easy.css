@@ -1,0 +1,66 @@
+body {
+    background-color: black;
+}
+.cpp {
+    padding: 35px;
+}
+.cs {
+    padding: 35px;
+}
+.java {
+    padding: 35px;
+}
+.python {
+    padding: 35px;
+}
+.php {
+    padding: 35px;
+}
+.ruby {
+    padding: 35px;
+}
+.javascript {
+    padding: 35px;
+}
+.html {
+    padding: 35px;
+}
+.react {
+    padding: 35px;
+}
+:root {
+    --button-width: 400px;
+
+    --button-bg: #DD6F24;
+    --shadow-bg: #D36415;
+
+    --button-2-bg: #A1A;
+    --button-2-shadow: #7AA2E3;
+
+    --button-3-bg: #7AA2E3;
+    --button-3-shadow: cyan;
+
+    --button-4-bg: #7AA2E3;
+    --button-4-shadow: cyan;
+
+    --button-5-bg: #7AA2E3;
+    --button-5-shadow: cyan;
+
+    --button-6-bg: #7AA2E3;
+    --button-6-shadow: cyan;
+
+    --button-7-bg: #7AA2E3;
+    --button-7-shadow: cyan;
+
+    --button-8-bg: #7AA2E3;
+    --button-8-shadow: cyan;
+
+    --button-9-bg: #7AA2E3;
+    --button-9-shadow: cyan;
+
+    --button-10-bg: #7AA2E3;
+    --button-10-shadow: cyan;
+
+    --button-11-bg: #7AA2E3;
+    --button-11-shadow: cyan;
+}

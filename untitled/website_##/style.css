@@ -1,0 +1,122 @@
+body {
+    background-color: darkgray;
+}
+.main_text {
+    font-family: JetBrains Mono, monospace;
+    text-align: left;
+    color: whitesmoke;
+    font-size: 12px;
+    font-weight: bold;
+}
+.main_text_2 {
+    font-family: JetBrains Mono, monospace;
+    text-align: left;
+    color: whitesmoke;
+    font-size: 12px;
+    font-weight: bold;
+}
+.first {
+    background-color: darkgray;
+    text-align: right;
+    color: whitesmoke;
+    font-size: 12px;
+    font-weight: bold;
+}
+.second {
+    background-color: darkgray;
+    text-align: left;
+    color: whitesmoke;
+    font-size: 12px;
+    font-weight: bold;
+}
+.third {
+    background-color: darkgray;
+    text-align: right;
+    color: whitesmoke;
+    font-size: 12px;
+    font-weight: bold;
+}
+.fourth {
+    background-color: darkgray;
+    text-align: left;
+    color: whitesmoke;
+    font-size: 12px;
+    font-weight: bold;
+}
+.fiveth {
+    background-color: darkgray;
+    text-align: right;
+    color: whitesmoke;
+    font-size: 12px;
+    font-weight: bold;
+}
+.sixth {
+    background-color: darkgray;
+    text-align: left;
+    color: whitesmoke;
+    font-size: 12px;
+    font-weight: bold;
+}
+.seventh {
+    background-color: darkgray;
+    text-align: right;
+    color: whitesmoke;
+    font-size: 12px;
+    font-weight: bold;
+}
+.eighth {
+    background-color: darkgray;
+    text-align: left;
+    color: whitesmoke;
+    font-size: 12px;
+    font-weight: bold;
+}
+.nineth {
+    background-color: darkgray;
+    text-align: right;
+    color: whitesmoke;
+    font-size: 12px;
+    font-weight: bold;
+}
+.tenth {
+    background-color: darkgray;
+    text-align: left;
+    color: whitesmoke;
+    font-size: 12px;
+    font-weight: bold;
+}
+.eleventh {
+    background-color: darkgray;
+    text-align: right;
+    color: whitesmoke;
+    font-size: 12px;
+    font-weight: bold;
+}
+.twelfth {
+    background-color: darkgray;
+    text-align: left;
+    color: whitesmoke;
+    font-size: 12px;
+    font-weight: bold;
+}
+.thirteenth {
+    background-color: darkgray;
+    text-align: right;
+    color: whitesmoke;
+    font-size: 12px;
+    font-weight: bold;
+}
+.fourteenth {
+    background-color: darkgray;
+    text-align: left;
+    color: whitesmoke;
+    font-size: 12px;
+    font-weight: bold;
+}
+.fiveteenth {
+    background-color: darkgray;
+    text-align: right;
+    color: whitesmoke;
+    font-size: 12px;
+    font-weight: bold;
+}

@@ -1,0 +1,59 @@
+body {
+    background: #000;
+}
+.start_text_1 {
+    font-family: "JetBrains Mono", Inter, system-ui, sans-serif;
+    color: whitesmoke;
+    font-size: 10pt;
+    text-align: right;
+    background-color: darkgray;
+}
+.start_text_2 {
+    font-family: "JetBrains Mono", Inter, system-ui, sans-serif;
+    color: whitesmoke;
+    font-size: 10pt;
+    text-align: left;
+    background-color: darkgray;
+}
+.start_text_3 {
+    font-family: "JetBrains Mono", Inter, system-ui, sans-serif;
+    color: whitesmoke;
+    font-size: 10pt;
+    text-align: left;
+    background-color: darkgray;
+}
+.hidden_wiki {
+    font-family: "JetBrains Mono", Inter, system-ui, sans-serif;
+    color: whitesmoke;
+    font-size: 10pt;
+    text-align: left;
+    background-color: darkgray;
+}
+.tor_windows {
+    font-family: "JetBrains Mono", Inter, system-ui, sans-serif;
+    color: whitesmoke;
+    font-size: 10pt;
+    text-align: left;
+    background-color: darkgray;
+}
+.tor_linux {
+    font-family: "JetBrains Mono", Inter, system-ui, sans-serif;
+    color: whitesmoke;
+    font-size: 10pt;
+    text-align: left;
+    background-color: darkgray;
+}
+.tor_macos {
+    font-family: "JetBrains Mono", Inter, system-ui, sans-serif;
+    color: whitesmoke;
+    font-size: 10pt;
+    text-align: left;
+    background-color: darkgray;
+}
+.tor_android {
+    font-family: "JetBrains Mono", Inter, system-ui, sans-serif;
+    color: whitesmoke;
+    font-size: 10pt;
+    text-align: left;
+    background-color: darkgray;
+}

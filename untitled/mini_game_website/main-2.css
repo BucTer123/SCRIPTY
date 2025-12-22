@@ -1,0 +1,41 @@
+.button_1 {
+    color: wheat;
+    font-family: "JetBrains Mono", Inter, system-ui, sans-serif;
+    padding: 35px;
+    text-align: center;
+    font-weight: normal;
+    font-size: 40px;
+}
+.button_2 {
+    color: wheat;
+    font-family: "JetBrains Mono", Inter, system-ui, sans-serif;
+    padding: 35px;
+    text-align: center;
+    font-weight: normal;
+    font-size: 40px;
+}
+.button_3 {
+    color: wheat;
+    font-family: "JetBrains Mono", Inter, system-ui, sans-serif;
+    padding: 35px;
+    text-align: center;
+    font-weight: normal;
+    font-size: 40px;
+}
+.button_4 {
+    color: wheat;
+    font-family: "JetBrains Mono", Inter, system-ui, sans-serif;
+    padding: 35px;
+    text-align: center;
+    font-weight: normal;
+    font-size: 40px;
+}
+.counter-info {
+    color: wheat;
+    font-family: "JetBrains Mono", Inter, system-ui, sans-serif;
+    padding: 35px;
+    text-align: center;
+    font-weight: normal;
+    font-size: 40px;
+    font-style: italic;
+}

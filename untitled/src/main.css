@@ -1,0 +1,38 @@
+body {
+    background-color: black;
+}
+.start_text_1 {
+    color: white;
+    font-family: sans-serif;
+    text-align: center;
+}
+.foto {
+    text-align: center;
+    padding: 11px;
+}
+.username {
+    text-align: center;
+    font-family: "JetBrains Mono ExtraBold", sans-serif;
+    color: white;
+}
+.password {
+    text-align: center;
+    font-family: "JetBrains Mono ExtraBold", sans-serif;
+    color: white;
+}
+.fotos {
+    text-align: center;
+    padding: 22px;
+}
+.Button {
+    text-align: center;
+    font-family: "JetBrains Mono ExtraBold", sans-serif;
+    color: white;
+    padding: 26px;
+}
+.chat {
+    text-align: center;
+    font-family: "JetBrains Mono ExtraBold", sans-serif;
+    color: white;
+    padding: 33px;
+}
