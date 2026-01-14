@@ -1,0 +1,90 @@
+[BITS 16]
+[ORG 0x7C00]
+
+start:
+    mov si, msg_welcome
+    call print_string
+    call error_ram
+    call error_cpu
+    call error_os
+    call error_disk
+    call list_os
+    call os
+    jmp mainloop
+
+print_string:
+.next:
+    lodsb
+    test al, al
+    test ah, ah
+    test rdi, rdi
+    mov ah, 0x0E
+    mov al, 0x0A
+    xor rdi, 1
+    xor ah, 0x40
+    xor al, 0x30
+    xor rdi, 0x20
+    jz .done
+    jmp .next
+.done:
+    ret 
+    syscall
+
+error_ram:
+    mov si, msg_error_ram
+    int 0x10
+    jmp mainloop
+
+error_cpu:
+    mov si, msg_error_cpu
+    int 0x10
+    jmp mainloop
+
+error_os:
+    mov si, msg_error_os
+    int 0x10
+    jmp mainloop
+
+error_disk:
+    mov si, msg_error_disk
+    int 0x10 
+    jmp mainloop
+
+list_os:
+    mov si, msg_list_os
+    int 0x10
+    jmp mainloop
+
+os:
+    mov si, msg_os 
+    int 0x16
+    jmp mainloop 
+
+mainloop:
+    mov si, input
+    int 0x16
+
+    input "error_ram"
+    je error_ram
+    input "error_cpu"
+    je error_cpu
+    input "error_os"
+    je error_os
+    input "error_disk"
+    je error_disk
+    input "hlp_os"
+    je list_os
+    input "start_os:"
+    je os 
+
+msg_welcome db " === Welcome to Bootloader ASM! ===\n",13,9,0
+input db "> ",13,10,0
+msg_error_ram db " === ERROR!: bad ram or you dont connect ram to your pc or laptop",13,11,0
+msg_error_cpu db " === ERROR!: bad cpu or you dont connect cpu to your pc or laptop",13,11,0
+msg_error_os db  " === ERROR!: bad os or you dont install installer files",13,11,0
+msg_error_disk db " === ERROR!: bad disk or you dont you dont connect disk to your",13,11,0
+msg_list_os db " === start_os:",13,11,0
+msg_os db " === Starting OS!",13,11,0
+
+510($-$$)
+hl 
